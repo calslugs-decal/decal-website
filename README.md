@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Intro to Computation for Linguists, Spring 2023
+title: Home
 permalink: /:path/
 nav_order: 1
 seo:
