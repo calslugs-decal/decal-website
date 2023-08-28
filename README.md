@@ -5,7 +5,7 @@ permalink: /:path/
 nav_order: 1
 seo:
   type: Course
-  name: Intro to Computation for Linguists, Spring 2023
+  name: Home
 ---
 
 # Welcome!
