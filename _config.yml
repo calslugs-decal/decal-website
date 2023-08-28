@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Intro to Computation for Linguists, UC Berkeley, Spring 2023
+title: Intro to Computation for Linguists
 description: A UC Berkeley course designed by students aiming to introduce computational linguistics
 author: Andres Sanchez, Zaid Maayah, Pranav Jayachand
 baseurl: '/sp23' # the subpath of your site, e.g. /blog
